@@ -1,2 +1,2 @@
 # smalltwo
-A newcomer's learning place
+A repo be used for learning and testing
